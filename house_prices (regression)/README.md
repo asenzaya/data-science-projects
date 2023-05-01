@@ -1,12 +1,12 @@
 ## Predicting House Prices in Ames, Iowa
 
+The main focus of this project was to challenge myself with a dataset that has an overwhelming amount of features available. The first step was to dive into the data and analyse what should be included and excluded from the models. 
+
 - Technologies Used: Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn.
 - Algorithms: Linear regression, Random forest, Gradient boosting.
 - Main Measure of Performance: RMSE (provided by Kaggle upon submission)
 - Link to Code: [House Prices](https://github.com/asenzaya/data-science-projects/blob/main/house_prices%20(linear%20regression)/house_prices.ipynb)
 - Data Source: Kaggle
-
-The main focus of this project was to challenge myself with a dataset that has an overwhelming amount of features available. The first step was to dive into the data and analyse what should be included and excluded from the models. 
 
 ### Data cleaning
 
