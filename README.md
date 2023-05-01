@@ -21,5 +21,5 @@ The main focus of this project was to challenge myself with a dataset that has a
 - Technologies Used: Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 - Main Measure of Performance: RMSE (provided by Kaggle upon submission)
 - Link to Full Description: [Predicting House Prices in Ames, Iowa](https://github.com/asenzaya/data-science-projects/blob/main/house_prices%20(regression)/README.md)
-- Link to Code: [House Prices](https://github.com/asenzaya/data-science-projects/blob/main/house_prices%20(linear%20regression)/house_prices.ipynb)
+- Link to Code: [House Prices](https://github.com/asenzaya/data-science-projects/blob/main/house_prices%20(regression)/house_prices.ipynb)
 - Data Source: Kaggle
