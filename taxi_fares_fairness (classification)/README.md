@@ -1,6 +1,10 @@
-# Predicting taxi fares fairness in New York City
+### NYC Taxi Fares Fairness
 
-#### Algorithms used in this project: Decision Tree, Random Forest, Bagging, Boosting, Gradient Boosting, LightGBM
+- Technologies Used: Python, NumPy, Pandas, Matplotlib, Scikit-Learn
+- Algorithms: Decision Tree, Random Forest, Bagging, Boosting, Gradient Boosting, LightGBM
+- Main Measure of Performance: AUC Roc
+- Link to Code: [Project Taxi Fares Fairness](https://github.com/asenzaya/data-science-projects/blob/main/taxi_fares_fairness%20(classification)/Project_taxi_fares_fairness.ipynb)
+- Data Source: Kaggle
 
 The purpose of this project was to practice using different algorithms and evaluating their performance on a classification problem.
 
